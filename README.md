@@ -16,9 +16,6 @@ SaaS para gestores de tráfego acompanharem campanhas Click-to-WhatsApp, qualifi
 
 - **[FinanceOS Pro](https://github.com/cauapetrytri-rgb/financeos)** — dashboard financeiro com relatórios, fluxo de acesso e experiência responsiva.
 - **[Ecossistema Digital](https://github.com/cauapetrytri-rgb/caua-petry-site)** — site full stack de posicionamento, captação e qualificação de oportunidades.
-- **[IA CASH](https://github.com/cauapetrytri-rgb/ia-cash-manual)** — pipeline editorial que gera e valida um manual digital de 170 páginas.
-- **[Aposentadoria Premium PDF](https://github.com/cauapetrytri-rgb/aposentadoria-premium-pdf)** — automação editorial com HTML, CSS Paged Media e Playwright.
-- **[Guia da Aposentadoria em Python](https://github.com/cauapetrytri-rgb/guia-aposentadoria-python)** — geração programática de PDF com conteúdo e componentes estruturados.
 - **[Portfólio pessoal](https://github.com/cauapetrytri-rgb/cauapetry)** — projetos de desenvolvimento web, dados e inteligência artificial.
 
 ## Tecnologias
