@@ -6,17 +6,18 @@ Atualmente desenvolvo aplicações SaaS, dashboards, integrações com APIs e ex
 
 ## Projeto em destaque
 
-### [PulseCamp AI](https://github.com/cauapetrytri-rgb/pulsecamp-ai)
+### [PulseCamp AI](https://pulsecamp-ai-portfolio.vercel.app)
 
-SaaS para gestores de tráfego acompanharem campanhas Click-to-WhatsApp, qualificarem leads com IA e enviarem conversões de qualidade para a Meta.
+SaaS para gestores de tráfego acompanharem campanhas Click-to-WhatsApp, qualificarem leads e enviarem conversões de qualidade para a Meta. Possui login com sessão `HttpOnly`, papéis Admin/Analista, isolamento por empresa, CI e testes E2E.
 
-`Next.js` · `React` · `TypeScript` · `OpenAI API` · `WhatsApp Cloud API` · `Meta CAPI`
+`Next.js` · `React` · `TypeScript` · `RBAC` · `OpenAI API` · `WhatsApp Cloud API` · `Meta CAPI` · `Playwright`
+
+[Código-fonte](https://github.com/cauapetrytri-rgb/pulsecamp-ai) · [Demonstração](https://pulsecamp-ai-portfolio.vercel.app)
 
 ## Outros projetos
 
-- **[FinanceOS Pro](https://github.com/cauapetrytri-rgb/financeos)** — dashboard financeiro com relatórios, fluxo de acesso e experiência responsiva.
-- **[Ecossistema Digital](https://github.com/cauapetrytri-rgb/caua-petry-site)** — site full stack de posicionamento, captação e qualificação de oportunidades.
-- **[Portfólio pessoal](https://github.com/cauapetrytri-rgb/cauapetry)** — projetos de desenvolvimento web, dados e inteligência artificial.
+- **[Portfólio e captação](https://caua-petry-site.vercel.app)** — site full stack com Next.js, Prisma, PostgreSQL, API de leads e verificação contínua. [Código](https://github.com/cauapetrytri-rgb/caua-petry-site).
+- **[FinanceOS Pro](https://financeos-sand.vercel.app)** — dashboard financeiro responsivo em JavaScript, publicado como demo local e segura. [Código](https://github.com/cauapetrytri-rgb/financeos).
 
 ## Tecnologias
 
@@ -26,5 +27,6 @@ SaaS para gestores de tráfego acompanharem campanhas Click-to-WhatsApp, qualifi
 
 - Florianópolis, SC, Brasil
 - [cauapetrytri@gmail.com](mailto:cauapetrytri@gmail.com)
+- [caua-petry-site.vercel.app](https://caua-petry-site.vercel.app)
 
 Estou aberto a oportunidades em desenvolvimento de software e a projetos nos quais produto, tecnologia e experiência do usuário caminhem juntos.
